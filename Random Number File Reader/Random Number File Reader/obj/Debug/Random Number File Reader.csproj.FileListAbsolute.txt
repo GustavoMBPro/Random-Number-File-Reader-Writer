@@ -1,0 +1,21 @@
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.AssemblyReference.cache
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.FormRandomNumberFileReader.resources
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.Properties.Resources.resources
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.GenerateResource.cache
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe.config
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.pdb
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.exe
+C:\Users\Gusta\source\repos\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe.config
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\bin\Debug\Random Number File Reader.pdb
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.AssemblyReference.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.FormRandomNumberFileReader.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random_Number_File_Reader.Properties.Resources.resources
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.GenerateResource.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.exe
+C:\Users\Gusta\Desktop\College\CMSC 2203-22 C# PROGRAMMING I\Week 5\Gustavo_MarinBorges_Activity5\Random Number File Reader\Random Number File Reader\obj\Debug\Random Number File Reader.pdb
